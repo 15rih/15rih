@@ -33,3 +33,11 @@
 **About Me** 
 
 I took computer science for high-school. I learned everything but lua in school, I now work on physics for a living. (With a Running-Start), I love optics,quantum,biophysics,nuclearphysics,thermodynamics and statistical mechanics,electromagnetism and photonics,atomicphysics,molecularphysics, [FOAT: Cosmology]
+
+<details>
+      <summary>Contact</summary>
+  <p align=center>
+    <a href="https://twitter.com/Rih_Family">Twitter</a>
+</details>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=15rih)](https://github.com/ryo-ma/github-profile-trophy)
